@@ -1,0 +1,8 @@
+npx create-next-app eth-btc-dashboard
+cd eth-btc-dashboard
+
+npm install \
+@circle-fin/app-kit \
+@circle-fin/adapter-viem-v2 \
+viem \
+lightweight-charts
